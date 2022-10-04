@@ -1,0 +1,7 @@
+C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.csprojAssemblyReference.cache
+C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.csproj.CoreCompileInputs.cache
+C:\Razrab\Podhodi_vag\Podhodi_vag\bin\Debug\Podhodi_vag.exe.config
+C:\Razrab\Podhodi_vag\Podhodi_vag\bin\Debug\Podhodi_vag.exe
+C:\Razrab\Podhodi_vag\Podhodi_vag\bin\Debug\Podhodi_vag.pdb
+C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.exe
+C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.pdb
