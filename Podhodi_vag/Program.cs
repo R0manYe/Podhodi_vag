@@ -15,8 +15,11 @@ namespace Podhodi_vag
             Console.WriteLine(otv);
             if (otv == 0)
             {
+              //  Dislokacia_ins pr = new Dislokacia_ins();
+            //    pr.Rass();
+                KOG_ins pr1 = new KOG_ins();
+                pr1.Rass1();
                
-                Console.WriteLine("все норм!!!");
             }
             else
             {

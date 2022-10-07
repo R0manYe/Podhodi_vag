@@ -1,0 +1,12 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Body SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <NS1:GetBlockResponse xmlns:NS1="SysEtranInt">
+      <return xsi:type="xsd:boolean">true</return>
+      <Text xsi:type="xsd:string">&lt;?xml version="1.0" encoding="windows-1251"?&gt;
+&lt;testReply&gt;
+&lt;version value="4.15.2.SO"/&gt;
+&lt;/testReply&gt;
+</Text>
+    </NS1:GetBlockResponse>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -19,18 +19,12 @@ namespace Podhodi_vag
         public string Str(string sborn)
         {
 
-            using (OracleConnection conn = new OracleConnection("Data Source = flagman; Persist Security Info=True;User ID = vsptsvod; Password=sibpromtrans"))
-            {
-                OracleCommand command = new OracleCommand(sborn, conn);
-                conn.Open();
-                OracleDataReader sB = command.ExecuteReader();
-                sB.Read();
-                string toD = sB.GetValue(0).ToString();
-                //  Console.WriteLine(toD);
-                conn.Close();
-                var _action = "http://192.168.1.125/Asu_proxy/Proxy.asmx/Zapros?Perem=" + toD;
 
-                WebRequest request = WebRequest.Create(_action);
+            var _action = "http://192.168.1.125/Asu_proxy/Proxy.asmx/Zapros?Perem="+sborn;
+            File.WriteAllText("act.xml", _action);
+            Console.WriteLine("Кол-во символов "+sborn.Length);
+            WebRequest request = WebRequest.Create(_action);
+            request.Timeout = 200000;
                 WebResponse response = request.GetResponse();
                 string soapResult;
                 using (Stream stream = response.GetResponseStream())
@@ -43,13 +37,13 @@ namespace Podhodi_vag
                     return soapResult;
                 }
 
-            }
+            
         }
         internal string Parsing(string sborn)
         {
-            //  GoEtran etr = new GoEtran();
+            GoEtran etr = new GoEtran();
             string perem = Str(sborn);
-            Console.WriteLine("Вход в Parsing метод ParsDocItem " + perem.Length);
+            Console.WriteLine("Размер файла " + perem.Length);
             string text = perem;
             var xml = XElement.Parse(text);
             var elem = XElement.Parse(xml.Value.Trim());
@@ -86,7 +80,7 @@ namespace Podhodi_vag
                 {
                     soapResult = reader.ReadToEnd();
                 }
-                File.WriteAllText("vag_har.xml", soapResult);
+            //    File.WriteAllText("vag_har.xml", soapResult);
 
             }
             var xml = XElement.Parse(soapResult);

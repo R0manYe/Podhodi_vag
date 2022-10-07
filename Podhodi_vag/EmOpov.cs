@@ -16,11 +16,11 @@ namespace Podhodi_vag
                 DateTime parsedDate = DateTime.Now;
                 SmtpClient Smtp = new SmtpClient("mail.vspt.org", 25);
                 Smtp.EnableSsl = false;
-                Smtp.Credentials = new System.Net.NetworkCredential("robot", "Abakan_mail18");      // Логин и пароль почты отправителя            
+                Smtp.Credentials = new System.Net.NetworkCredential("robot", "Abakan_mail18");                  
                 MailMessage MyMessage = new MailMessage();
-                MyMessage.From = new MailAddress("robot@abakan.vspt.ru");      // От кого отправляем почту
-                MyMessage.To.Add(address);                       // Кому отправляем почту
-                MyMessage.Subject = Zagolovok;          // Тема письма
+                MyMessage.From = new MailAddress("robot@abakan.vspt.ru");      
+                MyMessage.To.Add(address);                       
+                MyMessage.Subject = Zagolovok;          
                 MyMessage.Body = " Здравтсвуйте! \n " +
                 TextPisma;
                 Smtp.Send(MyMessage);
