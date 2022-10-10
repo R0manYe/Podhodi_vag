@@ -4,8 +4,8 @@ C:\Razrab\Podhodi_vag\Podhodi_vag\bin\Debug\Podhodi_vag.exe
 C:\Razrab\Podhodi_vag\Podhodi_vag\bin\Debug\Podhodi_vag.pdb
 C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.exe
 C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.pdb
-C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.csprojAssemblyReference.cache
 C:\Razrab\Podhodi_vag\Podhodi_vag\bin\Debug\Podhodi_vag.exe.manifest
 C:\Razrab\Podhodi_vag\Podhodi_vag\bin\Debug\Podhodi_vag.application
 C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.exe.manifest
 C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.application
+C:\Razrab\Podhodi_vag\Podhodi_vag\obj\Debug\Podhodi_vag.csprojAssemblyReference.cache

@@ -78,10 +78,13 @@
     <Compile Include="EmOpov.cs" />
     <Compile Include="GoEtran.cs" />
     <Compile Include="create_zapros.cs" />
-    <Compile Include="Dislokacia_ins.cs" />
-    <Compile Include="KOG_ins.cs" />
+    <Compile Include="Ins_Dislokacia.cs" />
+    <Compile Include="Ins_har_vag.cs" />
+    <Compile Include="Temp_Dislokacia_ins.cs" />
+    <Compile Include="Temp_KOG_ins.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vagoni_ins.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Podhodi_vag_TemporaryKey.pfx" />
@@ -103,6 +106,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

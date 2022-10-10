@@ -20,11 +20,26 @@ namespace Podhodi_vag
         {
 
 
-            var _action = "http://192.168.1.125/Asu_proxy/Proxy.asmx/Zapros?Perem="+sborn;
-            File.WriteAllText("act.xml", _action);
-            Console.WriteLine("Кол-во символов "+sborn.Length);
-            WebRequest request = WebRequest.Create(_action);
-            request.Timeout = 200000;
+
+            WebRequest request = WebRequest.Create("http://192.168.1.125/Asu_proxy/Proxy.asmx/Zapros");
+            request.Method = "POST";
+            request.Timeout = 600000;
+                                     
+            string perem = "perem="+sborn+"";
+           
+            byte[] byteArray = System.Text.Encoding.UTF8.GetBytes(perem);
+           
+            request.ContentType = "application/x-www-form-urlencoded";
+          
+            request.ContentLength = byteArray.Length;
+
+            
+            using (Stream dataStream = request.GetRequestStream())
+            {
+                dataStream.Write(byteArray, 0, byteArray.Length);
+            }
+            try
+            {
                 WebResponse response = request.GetResponse();
                 string soapResult;
                 using (Stream stream = response.GetResponseStream())
@@ -36,8 +51,19 @@ namespace Podhodi_vag
                     File.WriteAllText("vag_har.xml", soapResult);
                     return soapResult;
                 }
-
+            }
+            catch (WebException ex)
+            {
+                string address = "roman@abakan.vspt.ru";
+                string TextPisma = ex.ToString();
+                EmOpov pi = new EmOpov();
+                string Zagolovok = "Исключение при выполнениии запроса в GoEtran";
+                pi.Opov_err(address, TextPisma, Zagolovok);
+                return soapResult;
+                
+            }
             
+
         }
         internal string Parsing(string sborn)
         {

@@ -11,7 +11,7 @@ using System.Xml.Linq;
 
 namespace Podhodi_vag
 {
-    public class Dislokacia_ins
+    public class Temp_Dislokacia_ins
     {
         ///string pr { get; set; }
         public void Rass()
