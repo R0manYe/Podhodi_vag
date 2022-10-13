@@ -78,13 +78,16 @@
     <Compile Include="EmOpov.cs" />
     <Compile Include="GoEtran.cs" />
     <Compile Include="create_zapros.cs" />
+    <Compile Include="GoEtran1.cs" />
     <Compile Include="Ins_Dislokacia.cs" />
     <Compile Include="Ins_har_vag.cs" />
+    <Compile Include="Sql_z.cs" />
     <Compile Include="Temp_Dislokacia_ins.cs" />
     <Compile Include="Temp_KOG_ins.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vagoni_ins.cs" />
+    <Compile Include="Zagotovki.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Podhodi_vag_TemporaryKey.pfx" />

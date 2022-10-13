@@ -1,1 +1,1 @@
-<GetInform><ns0:getReferenceSPV4664 xmlns:ns0='http://service.siw.pktbcki.rzd/'><ns0:ReferenceSPV4664Request><idUser>3</idUser><idReference>14</idReference><okpoSob>5141354</okpoSob><idstr>01</idstr></ns0:ReferenceSPV4664Request></ns0:getReferenceSPV4664></GetInform>
+<invoiceFiledCars version='1.0'><FiledCarDate value='13.10.2022'/><Car><carNumber value = '1'/></Car><Station value='888004'/></invoiceFiledCars>

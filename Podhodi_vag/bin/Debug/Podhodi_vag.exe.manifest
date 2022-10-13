@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Podhodi_vag.exe" size="90656">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Podhodi_vag.exe" size="97312">
       <assemblyIdentity name="Podhodi_vag" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RfRvPGM9/ijVjo5DhQ+n+kmbDL2WS8rIwhrFDlf7sFo=</dsig:DigestValue>
+        <dsig:DigestValue>qFO/9pqa82P6fCk1cd1DDFOSBb3wKYV4z2Yt9VMPLLo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -15,16 +15,18 @@ namespace Podhodi_vag
             Console.WriteLine(otv);
             if (otv == 0)
             {
-                 Temp_Dislokacia_ins pr = new Temp_Dislokacia_ins();
-                  pr.Rass();
-                  Temp_KOG_ins pr1 = new Temp_KOG_ins();
-                  pr1.Rass1();
-                  Ins_Dislokacia ins = new Ins_Dislokacia();
-                  ins.Vstavka_Dislokacia();
-                  Ins_har_vag vs = new Ins_har_vag();
-                  vs.Vstavka_vag_har();
-                Vagoni_ins vag = new Vagoni_ins();
-                vag.Vagoni();
+               Temp_Dislokacia_ins pr = new Temp_Dislokacia_ins();
+                   pr.Rass();
+                   Temp_KOG_ins pr1 = new Temp_KOG_ins();
+                   pr1.Rass1();
+                   Ins_Dislokacia ins = new Ins_Dislokacia();
+                   ins.Vstavka_Dislokacia();
+                   Ins_har_vag vs = new Ins_har_vag();
+                   vs.Vstavka_vag_har();
+                 Vagoni_ins vag = new Vagoni_ins();
+                 vag.Vagoni();
+                Zagotovki zag = new Zagotovki();
+                zag.Zag();
                
             }
             else
