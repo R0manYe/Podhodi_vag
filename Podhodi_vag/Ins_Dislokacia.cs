@@ -64,11 +64,11 @@ namespace Podhodi_vag
                      "PR_OST_GRZ,DATE_OTPR,KOD_PL_OTPR,TARIF,OTM_GOD_VAG,POROG_PROB,PR_OTM,PR_STR,DATE_ZAP,KOD_GRZ_UCH,KDS_T,DVS_T,ID_GRUZPOL,ID_GRUZOTPR,SYSDATE," +
                      "(select name from complex.spr_wagon_type where ROD_VAG_UCH = complex.spr_wagon_type.rzd_id_sinhro) as NAIM_ROD_VAG, " +
                      "(select distinct st_name from SPR_ETRAN_station where ST_CODE = substr(STAN_NAZN, 0,(length(STAN_NAZN)-1)) group by st_name) as NAIM_STAN_NAZN, " +
-                     "(select shortname from spr_etran_org where id=temp_dislokacia.id_gruzpol) as NAIM_GRUZPOL_OKPO, " +
+                     "(select shortname from spr_etran_org where id=temp_dislokacia2.id_gruzpol) as NAIM_GRUZPOL_OKPO, " +
                      "(select fr_name from SPR_ETRAN_FREIGHT where FR_CODE_ETSNG = substr(KOD_GRZ_UCH, 0, 5)) as NAIM_KOD_GRZ, " +
                      "(select distinct st_name from SPR_ETRAN_station where ST_CODE = substr(STAN_OP, 0, (length(STAN_OP)-1)) group by st_name) as NAIM_STAN_OP, " +
                      "(select naim from spr_collection where id_spr = 'oper_vag' and spr_collection.sv = kop_VMD) as NAIM_KOP_VMD," +
-                     "(select shortname from spr_etran_org where id=temp_dislokacia.id_gruzotpr) as NAIM_GRUZOTPR_OKPO FROM TEMP_DISLOKACIA2 where nom_vag not in (select nom_vag from dislokacia)";
+                     "(select shortname from spr_etran_org where id=temp_dislokacia2.id_gruzotpr) as NAIM_GRUZOTPR_OKPO FROM TEMP_DISLOKACIA2 where nom_vag not in (select nom_vag from dislokacia)";
                 string dl_v_k = "DELETE FROM SPR_COLLECTION WHERE ID_SPR in ('VAG_KOG','VAG_PPGT')";
                 string ins_spr_kog = "insert into spr_collection(id_spr,NAIM) select 'VAG_KOG',nom_vag from temp_dislokacia2 where sobs=95682893";
                 string ins_spr_ppgt = "insert into spr_collection(id_spr,NAIM) select 'VAG_PPGT',nom_vag from temp_dislokacia2 where sobs=05141354";

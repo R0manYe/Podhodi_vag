@@ -18,8 +18,8 @@ namespace Podhodi_vag
         string pr { get; set; }
         public void Vagoni()
         {
-            string kol1 = "select ceil((count(nom_vag)/400)) as kol from dislokacia  where nom_vag not in (select vagon from spr_etran_vagon)";
-            string vag_col = "select COUNT(*) as vag from dislokacia  where nom_vag not in (select vagon from spr_etran_vagon)";
+            string kol1 = "select ceil((count(nom_vag)/400)) as kol from dislokacia  where not EXISTS (select vagon from spr_etran_vagon where vagon=dislokacia.nom_vag) and nom_vag not like '0%'";
+            string vag_col = "select COUNT(*) as vag from dislokacia  where not EXISTS (select vagon from spr_etran_vagon where vagon=dislokacia.nom_vag) and nom_vag not like '0%'";
 
             using (OracleConnection conn = new OracleConnection("Data Source = flagman; Persist Security Info=True;User ID = vsptsvod; Password=sibpromtrans;Unicode=True"))
             {
@@ -44,7 +44,7 @@ namespace Podhodi_vag
                                 for (int i = 1; i <= ii; i++)
                                 {
                                     DataSet ds = new DataSet();
-                                    string vag = "select * from [dbo].[nom_vag1]";
+                                    string vag = "select * from [dislokacia].[dbo].[nom_vag1]";
                                     using (SqlConnection con = new SqlConnection("Data Source=192.168.1.13;Initial Catalog=dislokacia;User ID=Roman;Password=238533;Connection Timeout = 6000"))
                                     {
                                         SqlCommand command2 = new SqlCommand(vag, con);

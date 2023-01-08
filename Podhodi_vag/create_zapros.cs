@@ -81,7 +81,7 @@ namespace Podhodi_vag
             File.WriteAllText("ott99.xml", pr);
             return pr;
         }
-        public string Vag_har(in string ss,string pr)
+        public string Vag_har(in string ss,out string pr)
         {         
            
                  string sborn =

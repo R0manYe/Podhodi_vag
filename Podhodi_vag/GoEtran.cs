@@ -105,8 +105,7 @@ namespace Podhodi_vag
                 using (StreamReader reader = new StreamReader(stream))
                 {
                     soapResult = reader.ReadToEnd();
-                }
-            //    File.WriteAllText("vag_har.xml", soapResult);
+                }         
 
             }
             var xml = XElement.Parse(soapResult);

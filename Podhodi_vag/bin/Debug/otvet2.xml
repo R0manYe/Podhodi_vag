@@ -124,28 +124,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>53136859</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56994213</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 13:43:16</FiledCarDate>
     <Car>
       <carNumber>57044562</carNumber>
@@ -241,6 +219,17 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:45:43</FiledCarDate>
+    <Car>
+      <carNumber>64109614</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>24.12.2022 12:56:04</FiledCarDate>
     <Car>
       <carNumber>59360057</carNumber>
@@ -330,35 +319,6 @@
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349987308</DOC_ID>
-      <Last_Date>08.01.2023 09:39:34</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>05.01.2023 07:53:59</FiledCarDate>
-    <Car>
-      <carNumber>53831061</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18892</StationId>
-      <StationCodeMod11>893106</StationCodeMod11>
-      <StationName>ЗАОЗЕРНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>04.01.2023 15:44:37</FiledCarDate>
@@ -649,14 +609,14 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:45:43</FiledCarDate>
     <Car>
-      <carNumber>90944349</carNumber>
+      <carNumber>61265005</carNumber>
     </Car>
     <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -876,6 +836,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:47:41</FiledCarDate>
+    <Car>
+      <carNumber>65206773</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 05:59:48</FiledCarDate>
     <Car>
       <carNumber>55493100</carNumber>
@@ -968,6 +939,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:49:25</FiledCarDate>
+    <Car>
+      <carNumber>62295845</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -1401,14 +1383,14 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 15:41:13</FiledCarDate>
     <Car>
-      <carNumber>56990914</carNumber>
+      <carNumber>74976382</carNumber>
     </Car>
     <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -1442,17 +1424,6 @@
       <StationId>19369</StationId>
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90934415</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -2066,17 +2037,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90262320</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>30.12.2022 16:48:17</FiledCarDate>
     <Car>
       <carNumber>63278352</carNumber>
@@ -2318,17 +2278,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>05.01.2023 15:57:39</FiledCarDate>
-    <Car>
-      <carNumber>51110880</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>20.12.2022 19:15:15</FiledCarDate>
     <Car>
       <carNumber>73968075</carNumber>
@@ -2391,6 +2340,19 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350080114</DOC_ID>
+      <Last_Date>08.01.2023 16:02:07</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 10:00:06</FiledCarDate>
     <Car>
       <carNumber>51302891</carNumber>
@@ -2400,6 +2362,11 @@
       <StationCodeMod11>882309</StationCodeMod11>
       <StationName>АБАЛАКОВО</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>03.01.2023 23:48:32</FiledCarDate>
@@ -2495,6 +2462,17 @@
       <StationCodeMod11>890201</StationCodeMod11>
       <StationName>КРАСНОЯРСК-ВОСТОЧНЫЙ</StationName>
     </ToStation>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 15:03:51</FiledCarDate>
+    <Car>
+      <carNumber>90262833</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
+    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -2838,35 +2816,6 @@
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006430</DOC_ID>
-      <Last_Date>08.01.2023 10:58:32</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 14:50:10</FiledCarDate>
-    <Car>
-      <carNumber>51068732</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>03.01.2023 14:15:48</FiledCarDate>
@@ -3976,35 +3925,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349685008</DOC_ID>
-      <Last_Date>07.01.2023 08:52:52</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>05.01.2023 07:51:08</FiledCarDate>
-    <Car>
-      <carNumber>61659975</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18310</StationId>
-      <StationCodeMod11>871107</StationCodeMod11>
-      <StationName>ТОПКИ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.12.2022 13:06:14</FiledCarDate>
     <Car>
       <carNumber>57581944</carNumber>
@@ -4509,6 +4429,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:46:44</FiledCarDate>
+    <Car>
+      <carNumber>64389331</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 06:12:40</FiledCarDate>
     <Car>
       <carNumber>68241777</carNumber>
@@ -4571,6 +4502,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 14:55:26</FiledCarDate>
+    <Car>
+      <carNumber>95194403</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 06:33:13</FiledCarDate>
     <Car>
       <carNumber>64314883</carNumber>
@@ -4590,6 +4532,17 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 15:25:43</FiledCarDate>
+    <Car>
+      <carNumber>50242452</carNumber>
+    </Car>
+    <Station>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -4886,6 +4839,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56995566</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
     <Car>
       <carNumber>53136610</carNumber>
@@ -4897,20 +4861,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>52818077</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>53136768</carNumber>
+      <carNumber>56064975</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -4938,17 +4891,6 @@
       <StationId>19369</StationId>
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90946682</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -5234,6 +5176,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56182231</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -5526,6 +5479,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350092108</DOC_ID>
+      <Last_Date>08.01.2023 16:47:47</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 14:13:31</FiledCarDate>
     <Car>
       <carNumber>60783388</carNumber>
@@ -5535,6 +5501,11 @@
       <StationCodeMod11>892103</StationCodeMod11>
       <StationName>БАЗАИХА</StationName>
     </Station>
+    <ToStation>
+      <StationId>18892</StationId>
+      <StationCodeMod11>893106</StationCodeMod11>
+      <StationName>ЗАОЗЕРНАЯ</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 02:18:39</FiledCarDate>
@@ -5851,17 +5822,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90262221</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 16:41:41</FiledCarDate>
     <Car>
       <carNumber>55546568</carNumber>
@@ -5969,17 +5929,6 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56995624</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -6659,6 +6608,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 14:58:03</FiledCarDate>
+    <Car>
+      <carNumber>59622720</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>01.12.2022 23:22:08</FiledCarDate>
     <Car>
       <carNumber>59350991</carNumber>
@@ -6700,17 +6660,6 @@
       <StationId>18534</StationId>
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90242330</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -6802,6 +6751,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>53100236</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>05.01.2023 00:16:45</FiledCarDate>
     <Car>
       <carNumber>96400791</carNumber>
@@ -6865,17 +6825,6 @@
       <StationId>19369</StationId>
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>55086946</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -7707,6 +7656,35 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350057371</DOC_ID>
+      <Last_Date>08.01.2023 14:24:18</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
+    <FiledCarDate>08.01.2023 17:22:03</FiledCarDate>
+    <Car>
+      <carNumber>58417866</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+    <ToStation>
+      <StationId>18856</StationId>
+      <StationCodeMod11>892103</StationCodeMod11>
+      <StationName>БАЗАИХА</StationName>
+    </ToStation>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>03.12.2022 14:00:47</FiledCarDate>
     <Car>
       <carNumber>57801573</carNumber>
@@ -7827,17 +7805,6 @@
     <FiledCarDate>22.11.2022 20:55:31</FiledCarDate>
     <Car>
       <carNumber>68312859</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>24.12.2022 18:53:40</FiledCarDate>
-    <Car>
-      <carNumber>58986894</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -8106,6 +8073,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>64361124</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -8872,6 +8850,35 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350057371</DOC_ID>
+      <Last_Date>08.01.2023 14:24:18</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
+    <FiledCarDate>08.01.2023 17:16:06</FiledCarDate>
+    <Car>
+      <carNumber>94824240</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+    <ToStation>
+      <StationId>18856</StationId>
+      <StationCodeMod11>892103</StationCodeMod11>
+      <StationName>БАЗАИХА</StationName>
+    </ToStation>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>25.12.2022 02:21:14</FiledCarDate>
     <Car>
       <carNumber>60067329</carNumber>
@@ -9106,6 +9113,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350077831</DOC_ID>
+      <Last_Date>08.01.2023 15:45:37</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 09:33:10</FiledCarDate>
     <Car>
       <carNumber>51681641</carNumber>
@@ -9115,6 +9135,11 @@
       <StationCodeMod11>882309</StationCodeMod11>
       <StationName>АБАЛАКОВО</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>05.01.2023 00:17:03</FiledCarDate>
@@ -9481,17 +9506,6 @@
     <FiledCarDate>30.12.2022 16:30:20</FiledCarDate>
     <Car>
       <carNumber>51306835</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>06.01.2023 15:27:28</FiledCarDate>
-    <Car>
-      <carNumber>51707438</carNumber>
     </Car>
     <Station>
       <StationId>19366</StationId>
@@ -9891,17 +9905,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90245283</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 18:53:46</FiledCarDate>
     <Car>
       <carNumber>50436518</carNumber>
@@ -9935,6 +9938,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350080114</DOC_ID>
+      <Last_Date>08.01.2023 16:02:07</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 10:00:06</FiledCarDate>
     <Car>
       <carNumber>51737708</carNumber>
@@ -9944,6 +9960,11 @@
       <StationCodeMod11>882309</StationCodeMod11>
       <StationName>АБАЛАКОВО</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 03:31:43</FiledCarDate>
@@ -9957,6 +9978,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350072399</DOC_ID>
+      <Last_Date>08.01.2023 15:22:26</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>07.01.2023 09:46:13</FiledCarDate>
     <Car>
       <carNumber>50679489</carNumber>
@@ -9966,6 +10000,11 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>03.01.2023 23:48:32</FiledCarDate>
@@ -9976,6 +10015,17 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 15:25:13</FiledCarDate>
+    <Car>
+      <carNumber>60145133</carNumber>
+    </Car>
+    <Station>
+      <StationId>18679</StationId>
+      <StationCodeMod11>887500</StationCodeMod11>
+      <StationName>АБАЗА</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -10968,6 +11018,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56994445</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>28.12.2022 19:51:31</FiledCarDate>
     <Car>
       <carNumber>57885725</carNumber>
@@ -10987,17 +11048,6 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56995541</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -11023,49 +11073,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349858705</DOC_ID>
-      <Last_Date>07.01.2023 22:48:07</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>03.01.2023 01:31:54</FiledCarDate>
-    <Car>
-      <carNumber>56990971</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18856</StationId>
-      <StationCodeMod11>892103</StationCodeMod11>
-      <StationName>БАЗАИХА</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
     <Car>
       <carNumber>56970775</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>52968781</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -11148,6 +11158,17 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>53081501</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -11684,64 +11705,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349655515</DOC_ID>
-      <Last_Date>07.01.2023 06:24:25</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 02:26:55</FiledCarDate>
-    <Car>
-      <carNumber>57138919</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006430</DOC_ID>
-      <Last_Date>08.01.2023 10:58:32</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 03:32:47</FiledCarDate>
-    <Car>
-      <carNumber>75098525</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 13:17:03</FiledCarDate>
     <Car>
       <carNumber>59610881</carNumber>
@@ -12178,17 +12141,6 @@
       <StationCodeMod11>862409</StationCodeMod11>
       <StationName>РАЗРЕЗ</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90247214</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -12823,6 +12775,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>60619228</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <Document>
       <DOC_ID>1349959010</DOC_ID>
       <Last_Date>08.01.2023 07:41:50</Last_Date>
@@ -12883,35 +12846,6 @@
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
-    <Car>
-      <carNumber>51728533</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -13184,35 +13118,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 12:28:20</FiledCarDate>
-    <Car>
-      <carNumber>51389419</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 05:59:48</FiledCarDate>
     <Car>
       <carNumber>61107678</carNumber>
@@ -13403,35 +13308,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350007773</DOC_ID>
-      <Last_Date>08.01.2023 11:05:10</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 15:22:03</FiledCarDate>
-    <Car>
-      <carNumber>75058859</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>26.12.2022 23:52:01</FiledCarDate>
     <Car>
       <carNumber>59345009</carNumber>
@@ -13547,17 +13423,6 @@
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>55086896</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 09:31:52</FiledCarDate>
@@ -14174,17 +14039,6 @@
       <StationId>18555</StationId>
       <StationCodeMod11>884003</StationCodeMod11>
       <StationName>НАЗАРОВО</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90242066</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -14817,6 +14671,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>52818309</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
     <Car>
       <carNumber>56990807</carNumber>
@@ -14887,6 +14752,17 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56195084</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -14972,17 +14848,6 @@
       <StationCodeMod11>639400</StationCodeMod11>
       <StationName>НОВОКУЙБЫШЕВСКАЯ</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>55086516</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>20.12.2022 01:52:00</FiledCarDate>
@@ -15624,6 +15489,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56990930</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>04.01.2023 01:41:44</FiledCarDate>
     <Car>
       <carNumber>54117601</carNumber>
@@ -15756,17 +15632,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90934423</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>04.01.2023 01:45:20</FiledCarDate>
     <Car>
       <carNumber>59787093</carNumber>
@@ -15820,35 +15685,6 @@
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
-    <Car>
-      <carNumber>50147495</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>13.12.2022 12:30:14</FiledCarDate>
@@ -16104,35 +15940,6 @@
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
-      <DOC_ID>1350006430</DOC_ID>
-      <Last_Date>08.01.2023 10:58:32</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 03:32:35</FiledCarDate>
-    <Car>
-      <carNumber>54488994</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
       <DOC_ID>1349032040</DOC_ID>
       <Last_Date>05.01.2023 07:35:53</Last_Date>
       <DocDescription>Накладная</DocDescription>
@@ -16336,6 +16143,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56995871</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>03.01.2023 23:52:14</FiledCarDate>
     <Car>
       <carNumber>52223088</carNumber>
@@ -16391,17 +16209,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56990773</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 02:00:23</FiledCarDate>
     <Car>
       <carNumber>53892048</carNumber>
@@ -16410,6 +16217,17 @@
       <StationId>19366</StationId>
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:12:24</FiledCarDate>
+    <Car>
+      <carNumber>60096518</carNumber>
+    </Car>
+    <Station>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -16466,35 +16284,6 @@
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 13:10:02</FiledCarDate>
-    <Car>
-      <carNumber>51141166</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>09.12.2022 13:58:03</FiledCarDate>
@@ -16630,35 +16419,6 @@
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1345337380</DOC_ID>
-      <Last_Date>25.12.2022 09:55:28</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>26.12.2022 10:27:14</FiledCarDate>
-    <Car>
-      <carNumber>54541297</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18703</StationId>
-      <StationCodeMod11>888305</StationCodeMod11>
-      <StationName>МИНУСИНСК</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>06.01.2023 11:25:45</FiledCarDate>
@@ -17131,35 +16891,6 @@
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006430</DOC_ID>
-      <Last_Date>08.01.2023 10:58:32</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 03:32:35</FiledCarDate>
-    <Car>
-      <carNumber>53866406</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -17999,17 +17730,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>24.12.2022 18:53:40</FiledCarDate>
-    <Car>
-      <carNumber>58982125</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>21.11.2022 18:59:20</FiledCarDate>
     <Car>
       <carNumber>51374429</carNumber>
@@ -18069,6 +17789,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>53136685</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -18317,17 +18048,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>24.12.2022 18:54:20</FiledCarDate>
-    <Car>
-      <carNumber>59461103</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>03.01.2023 14:15:48</FiledCarDate>
     <Car>
       <carNumber>65063737</carNumber>
@@ -18387,17 +18107,6 @@
       <StationId>18555</StationId>
       <StationCodeMod11>884003</StationCodeMod11>
       <StationName>НАЗАРОВО</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>24.12.2022 18:54:28</FiledCarDate>
-    <Car>
-      <carNumber>59629279</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -18869,6 +18578,17 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:18:36</FiledCarDate>
+    <Car>
+      <carNumber>53571121</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>28.11.2022 12:46:04</FiledCarDate>
     <Car>
       <carNumber>57367260</carNumber>
@@ -18877,6 +18597,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:15:33</FiledCarDate>
+    <Car>
+      <carNumber>59368415</carNumber>
+    </Car>
+    <Station>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -18918,17 +18649,6 @@
       <StationCodeMod11>893106</StationCodeMod11>
       <StationName>ЗАОЗЕРНАЯ</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>52818242</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>07.01.2023 09:50:41</FiledCarDate>
@@ -19088,17 +18808,6 @@
     <FiledCarDate>29.12.2022 16:53:35</FiledCarDate>
     <Car>
       <carNumber>60754637</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90946401</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -19315,6 +19024,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350072399</DOC_ID>
+      <Last_Date>08.01.2023 15:22:26</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>07.01.2023 09:46:05</FiledCarDate>
     <Car>
       <carNumber>51079218</carNumber>
@@ -19324,6 +19046,11 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>05.01.2023 13:45:55</FiledCarDate>
@@ -19611,35 +19338,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
-    <Car>
-      <carNumber>51574234</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>10.12.2022 02:10:12</FiledCarDate>
     <Car>
       <carNumber>50887488</carNumber>
@@ -19828,35 +19526,6 @@
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350028547</DOC_ID>
-      <Last_Date>08.01.2023 12:23:56</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>06.01.2023 13:22:02</FiledCarDate>
-    <Car>
-      <carNumber>63969331</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>28.12.2022 13:28:18</FiledCarDate>
@@ -20066,17 +19735,6 @@
     <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
     <Car>
       <carNumber>56990765</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56991128</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -20461,6 +20119,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350072399</DOC_ID>
+      <Last_Date>08.01.2023 15:22:26</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>07.01.2023 09:45:49</FiledCarDate>
     <Car>
       <carNumber>53912267</carNumber>
@@ -20470,6 +20141,11 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -20520,17 +20196,6 @@
       <StationId>18534</StationId>
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56995640</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -20735,6 +20400,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56991169</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 18:54:31</FiledCarDate>
     <Car>
       <carNumber>50964055</carNumber>
@@ -20837,17 +20513,6 @@
     <FiledCarDate>23.12.2022 08:03:09</FiledCarDate>
     <Car>
       <carNumber>58987025</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>13.12.2022 21:07:07</FiledCarDate>
-    <Car>
-      <carNumber>58987017</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -21094,35 +20759,6 @@
       <StationId>18892</StationId>
       <StationCodeMod11>893106</StationCodeMod11>
       <StationName>ЗАОЗЕРНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 13:10:02</FiledCarDate>
-    <Car>
-      <carNumber>75031336</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -21897,17 +21533,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90289554</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 06:12:40</FiledCarDate>
     <Car>
       <carNumber>55618805</carNumber>
@@ -22546,6 +22171,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56970965</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 20:20:17</FiledCarDate>
     <Car>
       <carNumber>64301237</carNumber>
@@ -22744,17 +22380,6 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90262155</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -23134,6 +22759,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:51:52</FiledCarDate>
+    <Car>
+      <carNumber>57327066</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>26.12.2022 08:24:44</FiledCarDate>
     <Car>
       <carNumber>57575045</carNumber>
@@ -23426,17 +23062,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:00:15</FiledCarDate>
-    <Car>
-      <carNumber>96402391</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>13.12.2022 05:53:00</FiledCarDate>
     <Car>
       <carNumber>58953084</carNumber>
@@ -23552,35 +23177,6 @@
       <StationCodeMod11>888305</StationCodeMod11>
       <StationName>МИНУСИНСК</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349685557</DOC_ID>
-      <Last_Date>07.01.2023 08:55:16</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>05.01.2023 07:53:59</FiledCarDate>
-    <Car>
-      <carNumber>63433940</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18161</StationId>
-      <StationCodeMod11>862305</StationCodeMod11>
-      <StationName>БЕЛОВО</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>29.12.2022 07:00:31</FiledCarDate>
@@ -23785,17 +23381,6 @@
       <StationCodeMod11>884906</StationCodeMod11>
       <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90200890</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>26.12.2022 23:51:57</FiledCarDate>
@@ -24057,6 +23642,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:48:33</FiledCarDate>
+    <Car>
+      <carNumber>62958012</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>01.01.2023 16:53:03</FiledCarDate>
     <Car>
       <carNumber>60798303</carNumber>
@@ -24065,6 +23661,17 @@
       <StationId>18703</StationId>
       <StationCodeMod11>888305</StationCodeMod11>
       <StationName>МИНУСИНСК</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56035017</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -24748,6 +24355,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>62245113</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>29.12.2022 20:07:49</FiledCarDate>
     <Car>
       <carNumber>57844227</carNumber>
@@ -24861,6 +24479,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>53100210</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>05.01.2023 10:00:07</FiledCarDate>
     <Car>
       <carNumber>52480654</carNumber>
@@ -24920,35 +24549,6 @@
       <StationId>18168</StationId>
       <StationCodeMod11>862409</StationCodeMod11>
       <StationName>РАЗРЕЗ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349854124</DOC_ID>
-      <Last_Date>07.01.2023 21:32:51</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:10</FiledCarDate>
-    <Car>
-      <carNumber>56704398</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -25189,6 +24789,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>53100269</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>03.01.2023 23:54:48</FiledCarDate>
     <Car>
       <carNumber>61346912</carNumber>
@@ -25300,6 +24911,17 @@
       <StationCodeMod11>893106</StationCodeMod11>
       <StationName>ЗАОЗЕРНАЯ</StationName>
     </ToStation>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:50:29</FiledCarDate>
+    <Car>
+      <carNumber>58959008</carNumber>
+    </Car>
+    <Station>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
+    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>31.12.2022 13:18:12</FiledCarDate>
@@ -26517,35 +26139,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006430</DOC_ID>
-      <Last_Date>08.01.2023 10:58:32</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 03:32:35</FiledCarDate>
-    <Car>
-      <carNumber>53877296</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>05.01.2023 09:55:45</FiledCarDate>
     <Car>
       <carNumber>53112447</carNumber>
@@ -26576,17 +26169,6 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56034614</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -26820,6 +26402,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56065220</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>30.12.2022 10:35:24</FiledCarDate>
     <Car>
       <carNumber>55725113</carNumber>
@@ -26839,6 +26432,17 @@
       <StationId>18555</StationId>
       <StationCodeMod11>884003</StationCodeMod11>
       <StationName>НАЗАРОВО</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56064900</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -27182,6 +26786,17 @@
       <StationId>18534</StationId>
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:18:36</FiledCarDate>
+    <Car>
+      <carNumber>62291851</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -27584,35 +27199,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
-    <Car>
-      <carNumber>75186486</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>30.12.2022 10:32:26</FiledCarDate>
     <Car>
       <carNumber>58360256</carNumber>
@@ -27768,35 +27354,6 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349854106</DOC_ID>
-      <Last_Date>07.01.2023 21:32:45</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 13:33:45</FiledCarDate>
-    <Car>
-      <carNumber>50488881</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>05.01.2023 13:45:44</FiledCarDate>
@@ -28361,6 +27918,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350083801</DOC_ID>
+      <Last_Date>08.01.2023 16:36:26</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 04:22:38</FiledCarDate>
     <Car>
       <carNumber>53867941</carNumber>
@@ -28370,6 +27940,11 @@
       <StationCodeMod11>882309</StationCodeMod11>
       <StationName>АБАЛАКОВО</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>09.12.2022 12:15:01</FiledCarDate>
@@ -29153,6 +28728,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56970874</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>17.12.2022 12:46:30</FiledCarDate>
     <Car>
       <carNumber>93659894</carNumber>
@@ -29205,17 +28791,6 @@
       <StationId>18856</StationId>
       <StationCodeMod11>892103</StationCodeMod11>
       <StationName>БАЗАИХА</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>55086409</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -29302,35 +28877,6 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18892</StationId>
-      <StationCodeMod11>893106</StationCodeMod11>
-      <StationName>ЗАОЗЕРНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349987308</DOC_ID>
-      <Last_Date>08.01.2023 09:39:34</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>05.01.2023 07:53:59</FiledCarDate>
-    <Car>
-      <carNumber>68221688</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
     <ToStation>
       <StationId>18892</StationId>
@@ -30441,17 +29987,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90262585</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>06.01.2023 09:34:25</FiledCarDate>
     <Car>
       <carNumber>57844136</carNumber>
@@ -31080,6 +30615,30 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>55086698</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350079994</DOC_ID>
+      <Last_Date>08.01.2023 15:58:02</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 10:00:06</FiledCarDate>
     <Car>
       <carNumber>50237205</carNumber>
@@ -31089,6 +30648,11 @@
       <StationCodeMod11>882309</StationCodeMod11>
       <StationName>АБАЛАКОВО</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 12:55:35</FiledCarDate>
@@ -31151,17 +30715,6 @@
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>05.01.2023 14:07:31</FiledCarDate>
-    <Car>
-      <carNumber>50306794</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -31340,17 +30893,6 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>05.01.2023 14:07:37</FiledCarDate>
-    <Car>
-      <carNumber>50158153</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -32001,6 +31543,19 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350068194</DOC_ID>
+      <Last_Date>08.01.2023 15:05:09</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>06.01.2023 09:24:17</FiledCarDate>
     <Car>
       <carNumber>58580044</carNumber>
@@ -32010,6 +31565,11 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </Station>
+    <ToStation>
+      <StationId>18019</StationId>
+      <StationCodeMod11>851207</StationCodeMod11>
+      <StationName>НОВОСИБИРСК-ЗАПАДНЫЙ</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>07.01.2023 12:59:59</FiledCarDate>
@@ -32123,35 +31683,6 @@
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349988786</DOC_ID>
-      <Last_Date>08.01.2023 09:46:00</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>05.01.2023 07:51:08</FiledCarDate>
-    <Car>
-      <carNumber>57513640</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18759</StationId>
-      <StationCodeMod11>889007</StationCodeMod11>
-      <StationName>КИЛЬЧУГ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 12:37:09</FiledCarDate>
@@ -32486,6 +32017,19 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350072399</DOC_ID>
+      <Last_Date>08.01.2023 15:22:26</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>07.01.2023 09:46:08</FiledCarDate>
     <Car>
       <carNumber>57017600</carNumber>
@@ -32495,6 +32039,11 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>07.01.2023 15:22:03</FiledCarDate>
@@ -33066,20 +32615,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>08.01.2023 10:00:06</FiledCarDate>
-    <Car>
-      <carNumber>53898888</carNumber>
-    </Car>
-    <Station>
-      <StationId>18533</StationId>
-      <StationCodeMod11>882309</StationCodeMod11>
-      <StationName>АБАЛАКОВО</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
+      <DOC_ID>1350077863</DOC_ID>
+      <Last_Date>08.01.2023 16:06:23</Last_Date>
       <DocDescription>Накладная</DocDescription>
       <DocState>
         <StateId>31</StateId>
@@ -33090,19 +32628,19 @@
         <DocTypeName>Накладная</DocTypeName>
       </DocType>
     </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
+    <FiledCarDate>08.01.2023 10:00:06</FiledCarDate>
     <Car>
-      <carNumber>51037471</carNumber>
+      <carNumber>53898888</carNumber>
     </Car>
     <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
+      <StationId>18533</StationId>
+      <StationCodeMod11>882309</StationCodeMod11>
+      <StationName>АБАЛАКОВО</StationName>
     </Station>
     <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -33314,6 +32852,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56995608</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>29.12.2022 18:30:19</FiledCarDate>
     <Car>
       <carNumber>54584263</carNumber>
@@ -33323,35 +32872,6 @@
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349854098</DOC_ID>
-      <Last_Date>07.01.2023 21:33:06</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 13:33:45</FiledCarDate>
-    <Car>
-      <carNumber>50278902</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 02:00:28</FiledCarDate>
@@ -33501,6 +33021,17 @@
       <StationId>19366</StationId>
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56994171</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -33663,35 +33194,6 @@
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 12:28:20</FiledCarDate>
-    <Car>
-      <carNumber>50728526</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>31.12.2022 16:31:31</FiledCarDate>
@@ -34037,6 +33539,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350079994</DOC_ID>
+      <Last_Date>08.01.2023 15:58:02</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 10:00:06</FiledCarDate>
     <Car>
       <carNumber>50524610</carNumber>
@@ -34046,6 +33561,11 @@
       <StationCodeMod11>882309</StationCodeMod11>
       <StationName>АБАЛАКОВО</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 10:49:41</FiledCarDate>
@@ -34303,17 +33823,6 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>05.01.2023 14:07:33</FiledCarDate>
-    <Car>
-      <carNumber>58296179</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -34620,17 +34129,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56991144</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>09.12.2022 00:27:17</FiledCarDate>
     <Car>
       <carNumber>77375194</carNumber>
@@ -34661,6 +34159,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>64248180</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -34709,35 +34218,6 @@
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
-    <Car>
-      <carNumber>58701566</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
       <DOC_ID>1349968618</DOC_ID>
       <Last_Date>08.01.2023 08:16:52</Last_Date>
       <DocDescription>Накладная</DocDescription>
@@ -34775,35 +34255,6 @@
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
-    <Car>
-      <carNumber>57737991</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -34890,33 +34341,15 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350034513</DOC_ID>
-      <Last_Date>08.01.2023 12:44:38</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>01.01.2023 12:11:00</FiledCarDate>
+    <FiledCarDate>08.01.2023 17:38:55</FiledCarDate>
     <Car>
-      <carNumber>63406565</carNumber>
+      <carNumber>53805651</carNumber>
     </Car>
     <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
     </Station>
-    <ToStation>
-      <StationId>18310</StationId>
-      <StationCodeMod11>871107</StationCodeMod11>
-      <StationName>ТОПКИ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>05.01.2023 01:56:41</FiledCarDate>
@@ -34992,6 +34425,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350072399</DOC_ID>
+      <Last_Date>08.01.2023 15:22:26</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>07.01.2023 09:46:00</FiledCarDate>
     <Car>
       <carNumber>54249859</carNumber>
@@ -35001,6 +34447,11 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>07.01.2023 23:29:59</FiledCarDate>
@@ -35011,28 +34462,6 @@
       <StationId>19366</StationId>
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56995525</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56195365</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -35662,35 +35091,6 @@
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 12:28:20</FiledCarDate>
-    <Car>
-      <carNumber>51790012</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>07.01.2023 04:09:04</FiledCarDate>
@@ -36774,17 +36174,6 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56994254</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -38340,35 +37729,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349854114</DOC_ID>
-      <Last_Date>07.01.2023 21:32:56</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 13:33:45</FiledCarDate>
-    <Car>
-      <carNumber>55906804</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>04.01.2023 20:45:49</FiledCarDate>
     <Car>
       <carNumber>61989018</carNumber>
@@ -38918,17 +38278,6 @@
       <StationId>18534</StationId>
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56990831</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -39566,17 +38915,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90274853</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <Document>
       <DOC_ID>1349942453</DOC_ID>
       <Last_Date>08.01.2023 05:53:30</Last_Date>
@@ -39606,17 +38944,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>05.01.2023 19:34:51</FiledCarDate>
-    <Car>
-      <carNumber>50596758</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 12:37:09</FiledCarDate>
     <Car>
       <carNumber>50523190</carNumber>
@@ -39636,6 +38963,17 @@
       <StationId>19366</StationId>
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:45:43</FiledCarDate>
+    <Car>
+      <carNumber>53112231</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -39749,6 +39087,17 @@
       <StationId>18534</StationId>
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>55086672</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -40153,6 +39502,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:18:36</FiledCarDate>
+    <Car>
+      <carNumber>55334965</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>06.01.2023 11:04:05</FiledCarDate>
     <Car>
       <carNumber>54715628</carNumber>
@@ -40217,46 +39577,6 @@
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>05.01.2023 19:34:51</FiledCarDate>
-    <Car>
-      <carNumber>51308997</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349717877</DOC_ID>
-      <Last_Date>07.01.2023 11:15:50</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>06.01.2023 17:52:38</FiledCarDate>
-    <Car>
-      <carNumber>55662092</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18892</StationId>
-      <StationCodeMod11>893106</StationCodeMod11>
-      <StationName>ЗАОЗЕРНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 04:41:13</FiledCarDate>
@@ -41021,35 +40341,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 13:10:02</FiledCarDate>
-    <Car>
-      <carNumber>54757612</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>06.01.2023 11:04:07</FiledCarDate>
     <Car>
       <carNumber>54761135</carNumber>
@@ -41430,6 +40721,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>55086763</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>30.12.2022 10:32:26</FiledCarDate>
     <Car>
       <carNumber>58471988</carNumber>
@@ -41518,6 +40820,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350095905</DOC_ID>
+      <Last_Date>08.01.2023 17:04:12</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>07.01.2023 20:20:17</FiledCarDate>
     <Car>
       <carNumber>64000821</carNumber>
@@ -41527,17 +40842,11 @@
       <StationCodeMod11>892103</StationCodeMod11>
       <StationName>БАЗАИХА</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>14.12.2022 19:39:23</FiledCarDate>
-    <Car>
-      <carNumber>90241928</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
+    <ToStation>
+      <StationId>18892</StationId>
+      <StationCodeMod11>893106</StationCodeMod11>
+      <StationName>ЗАОЗЕРНАЯ</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>04.01.2023 06:50:37</FiledCarDate>
@@ -41562,35 +40871,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 12:43:06</FiledCarDate>
-    <Car>
-      <carNumber>51971299</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>28.12.2022 13:20:32</FiledCarDate>
     <Car>
       <carNumber>59341677</carNumber>
@@ -41611,35 +40891,6 @@
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
-    <Car>
-      <carNumber>51982346</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>06.01.2023 19:48:31</FiledCarDate>
@@ -41810,17 +41061,6 @@
     <FiledCarDate>05.01.2023 00:16:01</FiledCarDate>
     <Car>
       <carNumber>90213398</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90262387</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -42242,6 +41482,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>55086979</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>29.12.2022 06:58:48</FiledCarDate>
     <Car>
       <carNumber>59604223</carNumber>
@@ -42317,35 +41568,6 @@
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 03:32:45</FiledCarDate>
-    <Car>
-      <carNumber>51137834</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>29.12.2022 21:02:28</FiledCarDate>
@@ -42516,35 +41738,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349988817</DOC_ID>
-      <Last_Date>08.01.2023 09:45:54</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>05.01.2023 07:51:08</FiledCarDate>
-    <Car>
-      <carNumber>57521478</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18759</StationId>
-      <StationCodeMod11>889007</StationCodeMod11>
-      <StationName>КИЛЬЧУГ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 05:44:05</FiledCarDate>
     <Car>
       <carNumber>57158842</carNumber>
@@ -42629,6 +41822,19 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350083801</DOC_ID>
+      <Last_Date>08.01.2023 16:36:26</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 04:24:21</FiledCarDate>
     <Car>
       <carNumber>50098268</carNumber>
@@ -42638,6 +41844,11 @@
       <StationCodeMod11>882309</StationCodeMod11>
       <StationName>АБАЛАКОВО</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>01.01.2023 15:17:51</FiledCarDate>
@@ -42771,17 +41982,6 @@
     <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
     <Car>
       <carNumber>90280231</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90246919</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -43071,35 +42271,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349854103</DOC_ID>
-      <Last_Date>07.01.2023 21:32:53</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 13:30:56</FiledCarDate>
-    <Car>
-      <carNumber>51867455</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>19.12.2022 21:21:25</FiledCarDate>
     <Car>
       <carNumber>77358190</carNumber>
@@ -43345,6 +42516,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>64248768</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 12:37:05</FiledCarDate>
     <Car>
       <carNumber>50584630</carNumber>
@@ -43410,6 +42592,17 @@
     <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
     <Car>
       <carNumber>56872815</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56994460</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -43536,35 +42729,6 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350010911</DOC_ID>
-      <Last_Date>08.01.2023 11:13:10</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>30.11.2022 16:15:18</FiledCarDate>
-    <Car>
-      <carNumber>64215221</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18892</StationId>
-      <StationCodeMod11>893106</StationCodeMod11>
-      <StationName>ЗАОЗЕРНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -43906,35 +43070,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349854117</DOC_ID>
-      <Last_Date>07.01.2023 21:33:07</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 12:59:38</FiledCarDate>
-    <Car>
-      <carNumber>53254413</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>26.12.2022 05:00:43</FiledCarDate>
     <Car>
       <carNumber>59625459</carNumber>
@@ -43976,6 +43111,17 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>55086904</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -44220,6 +43366,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 15:01:00</FiledCarDate>
+    <Car>
+      <carNumber>59624569</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>29.12.2022 06:43:54</FiledCarDate>
     <Car>
       <carNumber>63359673</carNumber>
@@ -44364,17 +43521,6 @@
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>13.12.2022 18:48:55</FiledCarDate>
-    <Car>
-      <carNumber>59627455</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>28.12.2022 12:25:58</FiledCarDate>
@@ -44924,35 +44070,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 12:43:06</FiledCarDate>
-    <Car>
-      <carNumber>54682059</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>27.11.2022 23:44:15</FiledCarDate>
     <Car>
       <carNumber>55766422</carNumber>
@@ -45219,6 +44336,17 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:18:36</FiledCarDate>
+    <Car>
+      <carNumber>63711022</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 06:33:13</FiledCarDate>
     <Car>
       <carNumber>62996921</carNumber>
@@ -45381,6 +44509,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:06:04</FiledCarDate>
+    <Car>
+      <carNumber>55951693</carNumber>
+    </Car>
+    <Station>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -46495,6 +45634,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 14:58:55</FiledCarDate>
+    <Car>
+      <carNumber>59622761</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -47655,6 +46805,30 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:42:12</FiledCarDate>
+    <Car>
+      <carNumber>58978248</carNumber>
+    </Car>
+    <Station>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350077863</DOC_ID>
+      <Last_Date>08.01.2023 16:06:23</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 10:00:06</FiledCarDate>
     <Car>
       <carNumber>51473007</carNumber>
@@ -47664,6 +46838,11 @@
       <StationCodeMod11>882309</StationCodeMod11>
       <StationName>АБАЛАКОВО</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -47987,6 +47166,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350080700</DOC_ID>
+      <Last_Date>08.01.2023 15:59:28</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>06.01.2023 11:54:33</FiledCarDate>
     <Car>
       <carNumber>51563294</carNumber>
@@ -47996,6 +47188,11 @@
       <StationCodeMod11>890703</StationCodeMod11>
       <StationName>КАЧА</StationName>
     </Station>
+    <ToStation>
+      <StationId>18369</StationId>
+      <StationCodeMod11>873308</StationCodeMod11>
+      <StationName>ТАЙГА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -48123,17 +47320,6 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>05.01.2023 14:07:33</FiledCarDate>
-    <Car>
-      <carNumber>53925590</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -49331,6 +48517,17 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56872690</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>12.12.2022 01:34:13</FiledCarDate>
     <Car>
       <carNumber>90242132</carNumber>
@@ -50007,6 +49204,19 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <Document>
+      <DOC_ID>1350083801</DOC_ID>
+      <Last_Date>08.01.2023 16:36:26</Last_Date>
+      <DocDescription>Накладная</DocDescription>
+      <DocState>
+        <StateId>31</StateId>
+        <StateName>Накладная предъявлена</StateName>
+      </DocState>
+      <DocType>
+        <DocTypeId>2</DocTypeId>
+        <DocTypeName>Накладная</DocTypeName>
+      </DocType>
+    </Document>
     <FiledCarDate>08.01.2023 04:23:31</FiledCarDate>
     <Car>
       <carNumber>75057943</carNumber>
@@ -50016,6 +49226,11 @@
       <StationCodeMod11>882309</StationCodeMod11>
       <StationName>АБАЛАКОВО</StationName>
     </Station>
+    <ToStation>
+      <StationId>18515</StationId>
+      <StationCodeMod11>881408</StationCodeMod11>
+      <StationName>НОВАЯ ЕЛОВКА</StationName>
+    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>29.12.2022 14:41:36</FiledCarDate>
@@ -50037,17 +49252,6 @@
       <StationId>18555</StationId>
       <StationCodeMod11>884003</StationCodeMod11>
       <StationName>НАЗАРОВО</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56994304</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -50271,17 +49475,6 @@
       <StationId>18703</StationId>
       <StationCodeMod11>888305</StationCodeMod11>
       <StationName>МИНУСИНСК</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>13.12.2022 21:07:07</FiledCarDate>
-    <Car>
-      <carNumber>93053296</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -50694,6 +49887,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:50:17</FiledCarDate>
+    <Car>
+      <carNumber>64322761</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 18:54:13</FiledCarDate>
     <Car>
       <carNumber>50175421</carNumber>
@@ -50961,17 +50165,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56995491</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>29.12.2022 14:39:44</FiledCarDate>
     <Car>
       <carNumber>54129200</carNumber>
@@ -51187,6 +50380,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>52968799</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>28.12.2022 13:18:27</FiledCarDate>
     <Car>
       <carNumber>59628198</carNumber>
@@ -51289,17 +50493,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56990815</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <Document>
       <DOC_ID>1349862457</DOC_ID>
       <Last_Date>07.01.2023 22:06:17</Last_Date>
@@ -51359,17 +50552,6 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>52818135</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -51847,35 +51029,6 @@
       <StationId>18319</StationId>
       <StationCodeMod11>871200</StationCodeMod11>
       <StationName>ИШАНОВО</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006430</DOC_ID>
-      <Last_Date>08.01.2023 10:58:32</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:06</FiledCarDate>
-    <Car>
-      <carNumber>51068419</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -52728,35 +51881,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349854128</DOC_ID>
-      <Last_Date>07.01.2023 21:32:51</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 13:01:56</FiledCarDate>
-    <Car>
-      <carNumber>53867594</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 09:50:41</FiledCarDate>
     <Car>
       <carNumber>68125517</carNumber>
@@ -52880,35 +52004,6 @@
       <StationId>18534</StationId>
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
-    <Car>
-      <carNumber>50181502</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
     </Station>
     <ToStation>
       <StationId>19369</StationId>
@@ -53402,17 +52497,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56990781</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>05.01.2023 15:57:34</FiledCarDate>
     <Car>
       <carNumber>51390995</carNumber>
@@ -53517,35 +52601,6 @@
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349854102</DOC_ID>
-      <Last_Date>07.01.2023 21:32:40</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 13:08:57</FiledCarDate>
-    <Car>
-      <carNumber>51650372</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 10:08:46</FiledCarDate>
@@ -53666,17 +52721,6 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>55086680</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>30.12.2022 06:31:01</FiledCarDate>
@@ -53965,17 +53009,6 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90940073</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -54281,17 +53314,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90245176</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 04:59:16</FiledCarDate>
     <Car>
       <carNumber>90289471</carNumber>
@@ -54301,35 +53323,6 @@
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 03:32:41</FiledCarDate>
-    <Car>
-      <carNumber>51691723</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>31.12.2022 12:58:01</FiledCarDate>
@@ -54826,6 +53819,17 @@
       <StationId>19369</StationId>
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:18:36</FiledCarDate>
+    <Car>
+      <carNumber>62508775</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -55354,6 +54358,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56872807</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>01.01.2023 15:18:57</FiledCarDate>
     <Car>
       <carNumber>59461723</carNumber>
@@ -55744,20 +54759,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>55097646</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56182322</carNumber>
+      <carNumber>55097455</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -56621,6 +55625,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 15:02:46</FiledCarDate>
+    <Car>
+      <carNumber>59760595</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 20:20:17</FiledCarDate>
     <Car>
       <carNumber>62428719</carNumber>
@@ -56939,6 +55954,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:18:36</FiledCarDate>
+    <Car>
+      <carNumber>63565014</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <Document>
       <DOC_ID>1349533103</DOC_ID>
       <Last_Date>08.01.2023 03:05:41</Last_Date>
@@ -57202,17 +56228,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:00:15</FiledCarDate>
-    <Car>
-      <carNumber>96401898</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>03.01.2023 23:50:05</FiledCarDate>
     <Car>
       <carNumber>62902580</carNumber>
@@ -57382,17 +56397,6 @@
       <StationId>18856</StationId>
       <StationCodeMod11>892103</StationCodeMod11>
       <StationName>БАЗАИХА</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90270521</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -59457,17 +58461,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>28.12.2022 08:17:47</FiledCarDate>
-    <Car>
-      <carNumber>58981556</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>20.12.2022 10:39:09</FiledCarDate>
     <Car>
       <carNumber>94406683</carNumber>
@@ -60309,35 +59302,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349655515</DOC_ID>
-      <Last_Date>07.01.2023 06:24:25</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 02:27:38</FiledCarDate>
-    <Car>
-      <carNumber>50293547</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>18.12.2022 02:08:23</FiledCarDate>
     <Car>
       <carNumber>73976888</carNumber>
@@ -60878,6 +59842,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>52818168</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>29.12.2022 06:34:27</FiledCarDate>
     <Car>
       <carNumber>62997572</carNumber>
@@ -61099,6 +60074,17 @@
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
     </ToStation>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 14:57:12</FiledCarDate>
+    <Car>
+      <carNumber>59624197</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
+    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -61474,6 +60460,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 14:56:17</FiledCarDate>
+    <Car>
+      <carNumber>90242074</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
     <Car>
       <carNumber>90242231</carNumber>
@@ -61828,17 +60825,6 @@
     <FiledCarDate>05.01.2023 00:16:01</FiledCarDate>
     <Car>
       <carNumber>90259979</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90260027</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -62614,6 +61600,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>64457609</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>20.12.2022 00:05:40</FiledCarDate>
     <Car>
       <carNumber>92676055</carNumber>
@@ -62928,6 +61925,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:18:36</FiledCarDate>
+    <Car>
+      <carNumber>64381320</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>06.01.2023 10:04:17</FiledCarDate>
     <Car>
       <carNumber>95326195</carNumber>
@@ -63042,17 +62050,6 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90936071</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -63454,35 +62451,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:12</FiledCarDate>
-    <Car>
-      <carNumber>75151324</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>02.01.2023 12:14:31</FiledCarDate>
     <Car>
       <carNumber>90942160</carNumber>
@@ -63618,35 +62586,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349468553</DOC_ID>
-      <Last_Date>06.01.2023 15:05:49</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>06.01.2023 11:04:29</FiledCarDate>
-    <Car>
-      <carNumber>55624100</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 11:54:12</FiledCarDate>
     <Car>
       <carNumber>29144508</carNumber>
@@ -63698,33 +62637,15 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006206</DOC_ID>
-      <Last_Date>08.01.2023 10:58:04</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 12:55:14</FiledCarDate>
+    <FiledCarDate>08.01.2023 17:32:42</FiledCarDate>
     <Car>
-      <carNumber>51709442</carNumber>
+      <carNumber>53802856</carNumber>
     </Car>
     <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
     </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>28.12.2022 01:26:46</FiledCarDate>
@@ -63790,17 +62711,6 @@
       <StationId>19369</StationId>
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90944323</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -64308,6 +63218,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>60909579</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 04:59:16</FiledCarDate>
     <Car>
       <carNumber>90946724</carNumber>
@@ -64327,17 +63248,6 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56990864</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -64418,17 +63328,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90946930</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 09:46:03</FiledCarDate>
     <Car>
       <carNumber>76769405</carNumber>
@@ -64437,17 +63336,6 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90946955</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -64556,6 +63444,17 @@
     <FiledCarDate>04.01.2023 21:52:49</FiledCarDate>
     <Car>
       <carNumber>76771120</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:51:22</FiledCarDate>
+    <Car>
+      <carNumber>59615757</carNumber>
     </Car>
     <Station>
       <StationId>18802</StationId>
@@ -65086,6 +63985,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>64669427</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <Document>
       <DOC_ID>1350061341</DOC_ID>
       <Last_Date>08.01.2023 14:36:05</Last_Date>
@@ -65123,6 +64033,17 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>64666837</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -65166,6 +64087,17 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>64675812</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 20:20:17</FiledCarDate>
     <Car>
       <carNumber>68036243</carNumber>
@@ -65196,17 +64128,6 @@
       <StationId>18856</StationId>
       <StationCodeMod11>892103</StationCodeMod11>
       <StationName>БАЗАИХА</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90949520</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -65269,6 +64190,17 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56182215</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -65352,17 +64284,6 @@
     <FiledCarDate>08.01.2023 14:18:01</FiledCarDate>
     <Car>
       <carNumber>54943345</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90931908</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -65782,6 +64703,17 @@
       <StationCodeMod11>769407</StationCodeMod11>
       <StationName>ЗАЯЧЬЯ ГОРКА</StationName>
     </ToStation>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>64329303</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>25.12.2022 12:42:20</FiledCarDate>
@@ -67057,17 +65989,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56990997</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <Document>
       <DOC_ID>1349626628</DOC_ID>
       <Last_Date>07.01.2023 03:56:29</Last_Date>
@@ -67152,17 +66073,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>52968690</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>05.01.2023 09:37:18</FiledCarDate>
     <Car>
       <carNumber>60522901</carNumber>
@@ -67210,17 +66120,6 @@
     <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
     <Car>
       <carNumber>90214867</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90289422</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -67446,17 +66345,6 @@
       <StationId>18703</StationId>
       <StationCodeMod11>888305</StationCodeMod11>
       <StationName>МИНУСИНСК</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56195076</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -68062,6 +66950,17 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>52820677</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -69102,6 +68001,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:18:36</FiledCarDate>
+    <Car>
+      <carNumber>62292305</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>04.12.2022 19:09:38</FiledCarDate>
     <Car>
       <carNumber>58159401</carNumber>
@@ -69325,6 +68235,17 @@
       <StationId>18856</StationId>
       <StationCodeMod11>892103</StationCodeMod11>
       <StationName>БАЗАИХА</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:18:36</FiledCarDate>
+    <Car>
+      <carNumber>62599071</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -69576,35 +68497,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349438855</DOC_ID>
-      <Last_Date>06.01.2023 12:54:51</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>06.01.2023 07:32:11</FiledCarDate>
-    <Car>
-      <carNumber>54611090</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 06:12:40</FiledCarDate>
     <Car>
       <carNumber>68054808</carNumber>
@@ -69741,17 +68633,6 @@
       <StationId>18856</StationId>
       <StationCodeMod11>892103</StationCodeMod11>
       <StationName>БАЗАИХА</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56182280</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -70088,9 +68969,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>56195381</carNumber>
+      <carNumber>56970783</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -70804,35 +69685,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006430</DOC_ID>
-      <Last_Date>08.01.2023 10:58:32</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:06</FiledCarDate>
-    <Car>
-      <carNumber>57582991</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>06.01.2023 17:52:38</FiledCarDate>
     <Car>
       <carNumber>68134147</carNumber>
@@ -71107,17 +69959,6 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56994338</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -71558,35 +70399,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1345754459</DOC_ID>
-      <Last_Date>26.12.2022 14:52:54</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>24.12.2022 20:17:14</FiledCarDate>
-    <Car>
-      <carNumber>53475422</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18588</StationId>
-      <StationCodeMod11>885100</StationCodeMod11>
-      <StationName>УЖУР</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 23:29:54</FiledCarDate>
     <Car>
       <carNumber>50505536</carNumber>
@@ -71700,17 +70512,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>55087050</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
     <Car>
       <carNumber>56994403</carNumber>
@@ -71741,17 +70542,6 @@
       <StationId>19369</StationId>
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>05.01.2023 14:07:31</FiledCarDate>
-    <Car>
-      <carNumber>51411593</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -71948,6 +70738,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>53114633</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
     <Car>
       <carNumber>56995707</carNumber>
@@ -72057,6 +70858,17 @@
     <FiledCarDate>07.01.2023 05:57:21</FiledCarDate>
     <Car>
       <carNumber>53632709</carNumber>
+    </Car>
+    <Station>
+      <StationId>18802</StationId>
+      <StationCodeMod11>890108</StationCodeMod11>
+      <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 17:17:10</FiledCarDate>
+    <Car>
+      <carNumber>61432407</carNumber>
     </Car>
     <Station>
       <StationId>18802</StationId>
@@ -72357,17 +71169,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90946427</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 07:05:44</FiledCarDate>
     <Car>
       <carNumber>64301427</carNumber>
@@ -72388,35 +71189,6 @@
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349946815</DOC_ID>
-      <Last_Date>08.01.2023 06:20:19</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>04.01.2023 00:28:59</FiledCarDate>
-    <Car>
-      <carNumber>55600985</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18499</StationId>
-      <StationCodeMod11>880801</StationCodeMod11>
-      <StationName>БОГОТОЛ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 10:00:05</FiledCarDate>
@@ -72543,35 +71315,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350006430</DOC_ID>
-      <Last_Date>08.01.2023 10:58:32</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 11:33:15</FiledCarDate>
-    <Car>
-      <carNumber>51654721</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 05:55:14</FiledCarDate>
     <Car>
       <carNumber>65010241</carNumber>
@@ -72654,35 +71397,6 @@
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349875438</DOC_ID>
-      <Last_Date>07.01.2023 23:27:45</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 19:03:45</FiledCarDate>
-    <Car>
-      <carNumber>50150614</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>06.01.2023 11:07:06</FiledCarDate>
@@ -73042,6 +71756,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56994379</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>04.01.2023 08:47:34</FiledCarDate>
     <Car>
       <carNumber>56195274</carNumber>
@@ -73050,6 +71775,17 @@
       <StationId>18544</StationId>
       <StationCodeMod11>883809</StationCodeMod11>
       <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>53136792</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -73080,6 +71816,17 @@
       <StationCodeMod11>884906</StationCodeMod11>
       <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </ToStation>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>52820693</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>07.01.2023 12:37:21</FiledCarDate>
@@ -73241,35 +71988,6 @@
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349988775</DOC_ID>
-      <Last_Date>08.01.2023 09:46:22</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>05.01.2023 07:51:08</FiledCarDate>
-    <Car>
-      <carNumber>53071312</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18759</StationId>
-      <StationCodeMod11>889007</StationCodeMod11>
-      <StationName>КИЛЬЧУГ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>07.01.2023 09:50:41</FiledCarDate>
@@ -73687,17 +72405,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:00:15</FiledCarDate>
-    <Car>
-      <carNumber>96401591</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>06.01.2023 10:11:22</FiledCarDate>
     <Car>
       <carNumber>58303132</carNumber>
@@ -73946,17 +72653,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56995970</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>03.01.2023 20:35:21</FiledCarDate>
     <Car>
       <carNumber>92640523</carNumber>
@@ -73966,35 +72662,6 @@
       <StationCodeMod11>882506</StationCodeMod11>
       <StationName>ЛЕСОСИБИРСК</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349987308</DOC_ID>
-      <Last_Date>08.01.2023 09:39:34</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>05.01.2023 07:53:59</FiledCarDate>
-    <Car>
-      <carNumber>68231059</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18892</StationId>
-      <StationCodeMod11>893106</StationCodeMod11>
-      <StationName>ЗАОЗЕРНАЯ</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -74024,17 +72691,6 @@
       <StationCodeMod11>862409</StationCodeMod11>
       <StationName>РАЗРЕЗ</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>52818028</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>05.01.2023 11:50:16</FiledCarDate>
@@ -74618,6 +73274,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>53114799</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 02:21:29</FiledCarDate>
     <Car>
       <carNumber>68108158</carNumber>
@@ -74713,6 +73380,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>55086805</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
     <Car>
       <carNumber>52818150</carNumber>
@@ -74757,17 +73435,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>52818267</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 09:16:05</FiledCarDate>
     <Car>
       <carNumber>56995749</carNumber>
@@ -74804,28 +73471,6 @@
     <FiledCarDate>05.01.2023 00:16:01</FiledCarDate>
     <Car>
       <carNumber>90949447</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90271222</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90282344</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -74915,35 +73560,6 @@
       <StationId>18892</StationId>
       <StationCodeMod11>893106</StationCodeMod11>
       <StationName>ЗАОЗЕРНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349847170</DOC_ID>
-      <Last_Date>07.01.2023 20:36:57</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>06.01.2023 05:19:14</FiledCarDate>
-    <Car>
-      <carNumber>75126060</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18369</StationId>
-      <StationCodeMod11>873308</StationCodeMod11>
-      <StationName>ТАЙГА</StationName>
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -75612,17 +74228,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>55086417</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 08:47:01</FiledCarDate>
     <Car>
       <carNumber>76751775</carNumber>
@@ -75747,17 +74352,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56970809</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>07.01.2023 12:52:08</FiledCarDate>
     <Car>
       <carNumber>51220739</carNumber>
@@ -75875,9 +74469,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
     <Car>
-      <carNumber>55086789</carNumber>
+      <carNumber>53136735</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -75886,9 +74480,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>53136735</carNumber>
+      <carNumber>56995780</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -76161,6 +74755,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:42:12</FiledCarDate>
+    <Car>
+      <carNumber>58973215</carNumber>
+    </Car>
+    <Station>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -76541,17 +75146,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:00:15</FiledCarDate>
-    <Car>
-      <carNumber>96400296</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>04.01.2023 00:35:42</FiledCarDate>
     <Car>
       <carNumber>96400692</carNumber>
@@ -76592,28 +75186,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90938978</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90942178</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 12:13:43</FiledCarDate>
     <Car>
       <carNumber>73919409</carNumber>
@@ -76622,6 +75194,17 @@
       <StationId>19366</StationId>
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56970908</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -76666,17 +75249,6 @@
       <StationId>19366</StationId>
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90946633</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -76899,9 +75471,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>56994395</carNumber>
+      <carNumber>56994544</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -76910,20 +75482,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>56065287</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>56181860</carNumber>
+      <carNumber>56995509</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -77829,17 +76390,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>05.01.2023 14:07:33</FiledCarDate>
-    <Car>
-      <carNumber>50331537</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 05:41:33</FiledCarDate>
     <Car>
       <carNumber>58274390</carNumber>
@@ -78003,29 +76553,7 @@
   <invoiceFiledCar>
     <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
     <Car>
-      <carNumber>90280223</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
       <carNumber>90946971</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90946443</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -78059,17 +76587,6 @@
     <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
     <Car>
       <carNumber>90949488</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90262437</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -78566,35 +77083,6 @@
     </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1350007773</DOC_ID>
-      <Last_Date>08.01.2023 11:05:10</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>07.01.2023 15:21:58</FiledCarDate>
-    <Car>
-      <carNumber>51488120</carNumber>
-    </Car>
-    <Station>
-      <StationId>19366</StationId>
-      <StationCodeMod11>932207</StationCodeMod11>
-      <StationName>СУХОВСКАЯ</StationName>
-    </Station>
-    <ToStation>
-      <StationId>19369</StationId>
-      <StationCodeMod11>932300</StationCodeMod11>
-      <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
-    </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.12.2022 03:23:59</FiledCarDate>
     <Car>
       <carNumber>62520838</carNumber>
@@ -78614,6 +77102,17 @@
       <StationId>19369</StationId>
       <StationCodeMod11>932300</StationCodeMod11>
       <StationName>СУХОВСКАЯ-ЮЖНАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56991037</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -78913,6 +77412,17 @@
       <StationId>19366</StationId>
       <StationCodeMod11>932207</StationCodeMod11>
       <StationName>СУХОВСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 15:01:52</FiledCarDate>
+    <Car>
+      <carNumber>95927547</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -79439,9 +77949,20 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>56970866</carNumber>
+      <carNumber>52818051</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>53100277</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -79490,9 +78011,20 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>56035280</carNumber>
+      <carNumber>56991045</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56994221</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -79523,44 +78055,15 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>53114773</carNumber>
+      <carNumber>56970916</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
       <StationCodeMod11>884906</StationCodeMod11>
       <StationName>КИЯ-ШАЛТЫРЬ</StationName>
     </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <Document>
-      <DOC_ID>1349858705</DOC_ID>
-      <Last_Date>07.01.2023 22:48:07</Last_Date>
-      <DocDescription>Накладная</DocDescription>
-      <DocState>
-        <StateId>31</StateId>
-        <StateName>Накладная предъявлена</StateName>
-      </DocState>
-      <DocType>
-        <DocTypeId>2</DocTypeId>
-        <DocTypeName>Накладная</DocTypeName>
-      </DocType>
-    </Document>
-    <FiledCarDate>05.01.2023 01:47:53</FiledCarDate>
-    <Car>
-      <carNumber>56195431</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-    <ToStation>
-      <StationId>18856</StationId>
-      <StationCodeMod11>892103</StationCodeMod11>
-      <StationName>БАЗАИХА</StationName>
-    </ToStation>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <FiledCarDate>08.01.2023 09:55:56</FiledCarDate>
@@ -79574,9 +78077,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
     <Car>
-      <carNumber>56990633</carNumber>
+      <carNumber>53136917</carNumber>
     </Car>
     <Station>
       <StationId>18578</StationId>
@@ -79964,17 +78467,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90233461</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>23.12.2022 09:22:32</FiledCarDate>
     <Car>
       <carNumber>90946872</carNumber>
@@ -80089,6 +78581,17 @@
       <StationId>19365</StationId>
       <StationCodeMod11>932103</StationCodeMod11>
       <StationName>КИТОЙ-КОМБИНАТСКАЯ</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:42:12</FiledCarDate>
+    <Car>
+      <carNumber>58977992</carNumber>
+    </Car>
+    <Station>
+      <StationId>18698</StationId>
+      <StationCodeMod11>888004</StationCodeMod11>
+      <StationName>АБАКАН</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -80286,6 +78789,17 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 14:59:55</FiledCarDate>
+    <Car>
+      <carNumber>58328550</carNumber>
+    </Car>
+    <Station>
+      <StationId>18544</StationId>
+      <StationCodeMod11>883809</StationCodeMod11>
+      <StationName>АЧИНСК 2</StationName>
+    </Station>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
     <FiledCarDate>03.01.2023 23:52:14</FiledCarDate>
     <Car>
       <carNumber>56611080</carNumber>
@@ -80305,39 +78819,6 @@
       <StationId>18802</StationId>
       <StationCodeMod11>890108</StationCodeMod11>
       <StationName>КРАСНОЯРСК-СЕВЕРНЫЙ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90280249</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90203282</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90282377</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
@@ -80368,17 +78849,6 @@
       <StationCodeMod11>887603</StationCodeMod11>
       <StationName>КАМЫШТА</StationName>
     </ToStation>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90946328</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
     <Document>
@@ -80421,17 +78891,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90946781</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>08.01.2023 04:59:16</FiledCarDate>
     <Car>
       <carNumber>90242488</carNumber>
@@ -80443,42 +78902,9 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90280215</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
     <Car>
       <carNumber>90210931</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>04.01.2023 00:33:55</FiledCarDate>
-    <Car>
-      <carNumber>90949371</carNumber>
-    </Car>
-    <Station>
-      <StationId>18544</StationId>
-      <StationCodeMod11>883809</StationCodeMod11>
-      <StationName>АЧИНСК 2</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
-    <FiledCarDate>02.01.2023 21:01:47</FiledCarDate>
-    <Car>
-      <carNumber>90949470</carNumber>
     </Car>
     <Station>
       <StationId>18544</StationId>
@@ -80841,17 +79267,6 @@
     </Station>
   </invoiceFiledCar>
   <invoiceFiledCar>
-    <FiledCarDate>07.01.2023 14:29:11</FiledCarDate>
-    <Car>
-      <carNumber>53100160</carNumber>
-    </Car>
-    <Station>
-      <StationId>18578</StationId>
-      <StationCodeMod11>884906</StationCodeMod11>
-      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
-    </Station>
-  </invoiceFiledCar>
-  <invoiceFiledCar>
     <FiledCarDate>06.01.2023 07:16:02</FiledCarDate>
     <Car>
       <carNumber>56048648</carNumber>
@@ -80992,5 +79407,16 @@
       <StationCodeMod11>875907</StationCodeMod11>
       <StationName>АНЖЕРСКАЯ</StationName>
     </ToStation>
+  </invoiceFiledCar>
+  <invoiceFiledCar>
+    <FiledCarDate>08.01.2023 16:46:59</FiledCarDate>
+    <Car>
+      <carNumber>56995590</carNumber>
+    </Car>
+    <Station>
+      <StationId>18578</StationId>
+      <StationCodeMod11>884906</StationCodeMod11>
+      <StationName>КИЯ-ШАЛТЫРЬ</StationName>
+    </Station>
   </invoiceFiledCar>
 </invoiceFiledCarsReply>

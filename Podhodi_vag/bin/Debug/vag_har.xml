@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<string xmlns="http://192.168.1.125/Asu_proxy/Proxy.asmx">&lt;?xml version='1.0' encoding='UTF-8'?&gt;&lt;SOAP-ENV:Envelope xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;&lt;SOAP-ENV:Body SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;&lt;NS1:GetBlockResponse xmlns:NS1="SysEtranInt"&gt;&lt;return xsi:type="xsd:boolean"&gt;true&lt;/return&gt;&lt;Text xsi:type="xsd:string"&gt;&amp;lt;?xml version="1.0" encoding="windows-1251"?&amp;gt;
-&amp;lt;error&amp;gt;
+<string xmlns="http://192.168.1.125/Asu_proxy/Proxy.asmx">&lt;?xml version='1.0' encoding='UTF-8'?&gt;&lt;SOAP-ENV:Envelope xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;&lt;SOAP-ENV:Body SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;&lt;NS1:GetBlockResponse xmlns:NS1="SysEtranInt"&gt;&lt;return xsi:type="xsd:boolean"&gt;true&lt;/return&gt;&lt;Text xsi:type="xsd:string"&gt;&amp;lt;error version="1.0"&amp;gt;
 &amp;lt;errorCode value="4"/&amp;gt;
-&amp;lt;errorMessage value="Не грузовой вагон, в АБД ПВ нет данных."/&amp;gt;
+&amp;lt;errorMessage value="Вы не можете выполнять запрос по ОКПО 95682893!"/&amp;gt;
 &amp;lt;errorStatusCode value="400"/&amp;gt;
-&amp;lt;/error&amp;gt;
-&lt;/Text&gt;&lt;/NS1:GetBlockResponse&gt;&lt;/SOAP-ENV:Body&gt;&lt;/SOAP-ENV:Envelope&gt;</string>
+&amp;lt;/error&amp;gt;&lt;/Text&gt;&lt;/NS1:GetBlockResponse&gt;&lt;/SOAP-ENV:Body&gt;&lt;/SOAP-ENV:Envelope&gt;</string>

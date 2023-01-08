@@ -21,8 +21,8 @@ namespace Podhodi_vag
                 pr1.Rass1();
                 Ins_Dislokacia ins = new Ins_Dislokacia();
                 ins.Vstavka_Dislokacia();
-                Ins_har_vag vs = new Ins_har_vag();
-                vs.Vstavka_vag_har();
+              /*  Ins_har_vag vs = new Ins_har_vag();
+                vs.Vstavka_vag_har();*/
                 Vagoni_ins vag = new Vagoni_ins();
                 vag.Vagoni();
                 Zagotovki zag = new Zagotovki();

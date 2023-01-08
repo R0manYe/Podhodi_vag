@@ -19,7 +19,7 @@ namespace Podhodi_vag
             {
 
                 string vag_har = "SELECT replace(replace((SELECT  f1 + char(10) FROM (SELECT  {fn CONCAT({ fn CONCAT('<vagon>', NAIM) }, '</vagon>') } AS f1 " +
-                    "FROM[VSPTSVOD]..[VSPTSVOD].[SPR_COLLECTION] WHERE[ID_SPR] in ('VAG_KOG')) AS dd FOR xml path('')), '&lt;', '<'), '&gt;', '>') AS nom_vag";
+                    "FROM[VSPTSVOD]..[VSPTSVOD].[SPR_COLLECTION] WHERE[ID_SPR] in ('VAG_KOG', 'VAG_PPGT')) AS dd FOR xml path('')), '&lt;', '<'), '&gt;', '>') AS nom_vag";
                 SqlCommand command = new SqlCommand(vag_har, connection1);
                 connection1.Open();
                 SqlDataReader vag_h = command.ExecuteReader();
@@ -27,8 +27,9 @@ namespace Podhodi_vag
                 string ss = vag_h.GetValue(0).ToString();
                 Console.WriteLine(ss);
                 create_zapros Zap = new create_zapros();
-                string rez_z = Zap.Vag_har(in ss, pr);
-                if (rez_z.Length > 1577)
+                string rez_z = Zap.Vag_har(in ss,out string pr);
+                Console.WriteLine(pr);
+                if (pr.Length > 1577)
                 {
                     const string inputXMLFile = "ott99.xml";
                     {

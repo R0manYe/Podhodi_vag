@@ -1,22 +1,39 @@
 <getOrgPassportReply>
   <org>
-    <orgID value="702696" />
-    <orgName value="ТОО &quot;ПК &quot;ЦЕМЕНТНЫЙ ЗАВОД СЕМЕЙ&quot;" />
-    <orgShortName value="ТОО &quot;ПК &quot;ЦЕМЕНТНЫЙ ЗАВОД СЕМЕЙ&quot;" />
+    <orgID value="673807" />
+    <orgINN value="190301885607" />
+    <orgOKPO value="0163008477" />
+    <orgName value="Индивидуальный предприниматель Величко Галина Николаевна" />
+    <orgShortName value="ИП Величко Г.Н." />
     <orgType value="Контрагент" />
     <orgPasportStateID value="839" />
     <orgPasportStateName value="Действует" />
     <orgAddress>
+      <addressID value="1" />
+      <addressType value="1" />
+      <addressText value="Абакан Некрасова - 22 - кв.36" />
+      <addressPostInd value="655001" />
+      <ADR_COUNTRY value="178" />
+      <ADR_REGION value="87" />
+      <ADR_CITYTYPE value="1" />
+      <ADR_CITY value="Абакан" />
+      <ADR_STREET value="Некрасова" />
+      <ADR_BUILDING value="22" />
+      <ADR_FLAT value="кв.36" />
+    </orgAddress>
+    <orgAddress>
       <addressID value="0" />
       <addressType value="0" />
-      <addressText value="ВОСТОЧНО-КАЗАХСТАНСКАЯ Г.СЕМЕЙ ЗАПАДНЫЙ ПРОМЫШЛЕННЫЙ УЗЕЛ Б/Н" />
-      <addressTGNL value="4625" />
-      <addressPostInd value="071412" />
-      <ADR_COUNTRY value="109" />
+      <addressText value="Абакан Некрасова - 22 - кв.36" />
+      <addressTGNL value="7483" />
+      <addressPostInd value="655001" />
+      <ADR_COUNTRY value="178" />
+      <ADR_REGION value="87" />
       <ADR_CITYTYPE value="1" />
-      <ADR_CITY value="ВОСТОЧНО-КАЗАХСТАНСКАЯ Г.СЕМЕЙ" />
-      <ADR_STREET value="ЗАПАДНЫЙ ПРОМЫШЛЕННЫЙ УЗЕЛ Б/Н" />
-      <ADR_NOTES value="ЗАПАДНЫЙ ПРОМЫШЛЕННЫЙ УЗЕЛ Б/Н" />
+      <ADR_CITY value="Абакан" />
+      <ADR_STREET value="Некрасова" />
+      <ADR_BUILDING value="22" />
+      <ADR_FLAT value="кв.36" />
     </orgAddress>
   </org>
 </getOrgPassportReply>
