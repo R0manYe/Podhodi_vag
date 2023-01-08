@@ -56,13 +56,10 @@ namespace Podhodi_vag
                                         con.Close();
                                         create_zapros Zap = new create_zapros();
                                         string rez_z = Zap.Vagoni(in vagon,pr);
-                                        File.WriteAllText("vag.xml", rez_z);
-                                      //  const string inputXMLFile = "ott10.xml";
-                                        var xml = XElement.Parse(rez_z.ToString());
-                                      //  var elem = XElement.Parse(xml.Value.Trim());
+                                        File.WriteAllText("vag.xml", rez_z);                                    
+                                        var xml = XElement.Parse(rez_z.ToString());                                    
                                         string code3 = Regex.Replace(xml.ToString(), @"[\u0000-\u0008,\u000B,\u000C,\u000E-\u001F]", "");
-                                        string code1 = code3.Replace("'", "");
-                                      //  Console.WriteLine(code1);
+                                        string code1 = code3.Replace("'", "");                                    
 
                                         string stroka = " DECLARE @x xml SET @x = '" + code1.ToString() + "' " +
                                             "INSERT INTO[FLAGMAN]..[VSPTSVOD].[SPR_ETRAN_VAGON]" +
@@ -142,6 +139,15 @@ namespace Podhodi_vag
                                 }
                             }
                         }
+                    }
+                    else
+                    {
+                        string address = "roman@abakan.vspt.ru";
+                        string TextPisma = "Ошибка  " +gg+ "";
+                        EmOpov pi = new EmOpov();
+                        string Zagolovok = "Ответ АСУ-АСУ слишком мал ошибка импорта характеристик вагонов";
+                        pi.Opov_err(address, TextPisma, Zagolovok);
+                        continue;
                     }
                 }
             }

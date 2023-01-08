@@ -1,0 +1,22 @@
+<getOrgPassportReply>
+  <org>
+    <orgID value="702696" />
+    <orgName value="ТОО &quot;ПК &quot;ЦЕМЕНТНЫЙ ЗАВОД СЕМЕЙ&quot;" />
+    <orgShortName value="ТОО &quot;ПК &quot;ЦЕМЕНТНЫЙ ЗАВОД СЕМЕЙ&quot;" />
+    <orgType value="Контрагент" />
+    <orgPasportStateID value="839" />
+    <orgPasportStateName value="Действует" />
+    <orgAddress>
+      <addressID value="0" />
+      <addressType value="0" />
+      <addressText value="ВОСТОЧНО-КАЗАХСТАНСКАЯ Г.СЕМЕЙ ЗАПАДНЫЙ ПРОМЫШЛЕННЫЙ УЗЕЛ Б/Н" />
+      <addressTGNL value="4625" />
+      <addressPostInd value="071412" />
+      <ADR_COUNTRY value="109" />
+      <ADR_CITYTYPE value="1" />
+      <ADR_CITY value="ВОСТОЧНО-КАЗАХСТАНСКАЯ Г.СЕМЕЙ" />
+      <ADR_STREET value="ЗАПАДНЫЙ ПРОМЫШЛЕННЫЙ УЗЕЛ Б/Н" />
+      <ADR_NOTES value="ЗАПАДНЫЙ ПРОМЫШЛЕННЫЙ УЗЕЛ Б/Н" />
+    </orgAddress>
+  </org>
+</getOrgPassportReply>

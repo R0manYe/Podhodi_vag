@@ -10,7 +10,24 @@ namespace Podhodi_vag
 {
     class Sql_z
     {
-        public void Oracle_v(string stroka)
+        public string vihod { get; set; }
+        
+        public string Oracle_v(in string stroka,out string vihod)
+        {
+            vihod = null;
+            using (OracleConnection conn = new OracleConnection("Data Source = flagman; Persist Security Info=True;User ID = vsptsvod; Password=sibpromtrans"))
+            {
+                OracleCommand command = new OracleCommand(stroka, conn);
+                conn.Open();
+                OracleDataReader vivod = command.ExecuteReader();
+               while(vivod.Read())
+                { vihod = vivod.GetValue(0).ToString(); }
+                conn.Close();
+            }
+            return vihod;
+
+        }
+        public void Oracle_v1(string stroka)
         {
             using (OracleConnection conn = new OracleConnection("Data Source = flagman; Persist Security Info=True;User ID = vsptsvod; Password=sibpromtrans"))
             {

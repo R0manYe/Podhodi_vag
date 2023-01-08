@@ -1,0 +1,5 @@
+<error version="1.0">
+  <errorCode value="4" />
+  <errorMessage value="Сервер АСОУП вернул ошибку! Обратитесь в АСОУП." />
+  <errorStatusCode value="503" />
+</error>

@@ -78,7 +78,27 @@ namespace Podhodi_vag
                                     connection.Close();
                                 }
                             }
+                            else
+                            {
+                                // Console.WriteLine("Исключение!");
+                                string address = "roman@abakan.vspt.ru";
+                                string TextPisma = "Ошибка при импорте характеристик " + rez_z + "";
+                                EmOpov pi = new EmOpov();
+                                string Zagolovok = "Ошибка при импорте характеристик";
+                                pi.Opov_err(address, TextPisma, Zagolovok);
+
+                            }
                     }
+                }
+                else
+                {
+                    // Console.WriteLine("Исключение!");
+                    string address = "roman@abakan.vspt.ru";
+                    string TextPisma = "Ошибка при импорте характеристик "+rez_z+"";
+                    EmOpov pi = new EmOpov();
+                    string Zagolovok = "Ошибка при импорте характеристик";
+                    pi.Opov_err(address, TextPisma, Zagolovok);
+                    
                 }
             }
 

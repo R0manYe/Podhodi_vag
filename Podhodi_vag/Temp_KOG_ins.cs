@@ -14,12 +14,12 @@ namespace Podhodi_vag
     {
         public void Rass1()
         {
-            int[] sobs = new int[] { 95682893, 5141354 };
+            string[] sobs = new string[] {"05141354","95682893"};
 
-            foreach (int i in sobs)
+            foreach (string i in sobs)
             {
                 create_zapros Zapros = new create_zapros();
-                string rez_z = Zapros.KOG(in i, out string pr);
+                string rez_z = Zapros.KOG(in  i, out string pr);
                 {
                 }
                 if (rez_z.Length > 1577)
@@ -112,6 +112,15 @@ namespace Podhodi_vag
                             }
                         }
                     }
+                }
+                else
+                {
+                    string address = "roman@abakan.vspt.ru";
+                    string TextPisma = "Ошибка КОГ " + i+"код ошибки" +rez_z+ "";
+                    EmOpov pi = new EmOpov();
+                    string Zagolovok = "Ответ АСУ-АСУ слишком мал";
+                    pi.Opov_err(address, TextPisma, Zagolovok);
+                    continue;
                 }
             }
         }

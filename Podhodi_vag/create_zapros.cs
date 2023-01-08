@@ -20,7 +20,7 @@ namespace Podhodi_vag
             using (SqlConnection connection1 = new SqlConnection("Data Source=192.168.1.13;Initial Catalog=dislokacia;User ID=Roman;Password=238533"))
             {
 
-                string gruzpol = "SELECT    replace(replace((SELECT  f1 + char(10) FROM(SELECT        { fn CONCAT({ fn CONCAT('<gruzpol_okpo>', [okpo]) }, '</gruzpol_okpo>') } AS f1" +
+                string gruzpol = "SELECT    replace(replace((SELECT  f1 + char(10) FROM(SELECT        { fn CONCAT({ fn CONCAT('', [okpo]) }, ',') } AS f1" +
                        " FROM VSPTSVOD..VSPTSVOD.SPR_CLI WHERE [ID_ST]='" + i + "' AND LEN(OKPO)>4 GROUP BY OKPO) AS dd FOR xml path('')), '&lt;', '<'), '&gt;', '>') AS f1";
                 SqlCommand command = new SqlCommand(gruzpol, connection1);
                 connection1.Open();
@@ -60,7 +60,7 @@ namespace Podhodi_vag
 
             return pr;
         }
-        public string KOG(in int i, out string pr)
+        public string KOG(in string i, out string pr)
         {
             string sborn =
                    "<GetInform>" +
@@ -148,6 +148,19 @@ namespace Podhodi_vag
             GoEtran1 otv = new GoEtran1();
             pr = otv.Parsing(sborn);
             File.WriteAllText("ott99.xml", pr);
+            return pr;
+        }
+        public string GreateOrg(in string i, out string pr)
+        {
+            string sborn =
+                   "<getOrgPassport version='1.0'>" +
+                   "<orgID value = '"+i+"'/>" +
+                "</getOrgPassport>";
+            Console.WriteLine(i);
+            File.WriteAllText("ottOrg.xml", sborn);
+            GoEtran otv = new GoEtran();
+            pr = otv.Parsing(sborn);
+            File.WriteAllText("ottOrg2.xml", pr);
             return pr;
         }
 
